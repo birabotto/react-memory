@@ -12,7 +12,7 @@ export const Container = styled.div<ContainerProps>`
   align-items: center;
   cursor: pointer;
   background-color: ${(props) =>
-    props.showBackground ? "#1550FF" : "#e2e3e3"};
+    props.showBackground ? "#43DAFF" : "#e2e3e3"};
 `;
 
 type IconProps = {
